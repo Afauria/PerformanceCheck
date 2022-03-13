@@ -1,0 +1,13 @@
+{
+	"startTime" : 2.0,
+	"static": {
+		"cpu" : 0,
+		"appMomery": 35
+	},
+	"running": {
+		"appMomery": 45
+	},
+	"average": {
+		"appMomery": 45
+	}
+}
